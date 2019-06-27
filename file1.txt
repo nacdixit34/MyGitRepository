@@ -2,7 +2,7 @@
 //this is from bug123
 class HelloGit {
 
-	void helloGit()
+	public static final void helloGit(String str)
 	{
 		System.out.println("hello git...");
 	}
@@ -16,7 +16,7 @@ class HelloGit {
 	{
 
 	HelloGit obj=new helloGit();
-	obj.helloGit(); 
+	obj.helloGit("hello"); 
 		
 	}
 
