@@ -7,7 +7,11 @@ class HelloGit {
 		System.out.println("hello git...");
 	}
 
-
+	void myBigMethod()
+	{
+		sysout("has a method implementation");
+	}
+	
 	public static void main(String ar[])
 	{
 
