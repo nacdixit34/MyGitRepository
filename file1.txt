@@ -2,7 +2,9 @@
 //this is from bug123
 class HelloGit {
 
-	static void helloGit()
+
+	public static final void helloGit(String str)
+
 	{
 		System.out.println("hello git...");
 	}
@@ -16,9 +18,8 @@ class HelloGit {
 	public static void main(String ar[])
 	{
 
-	HelloGit.helloGit();
+	HelloGit.helloGit("Hello");
 	 
-		
 	}
 
 }
