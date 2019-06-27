@@ -11,7 +11,7 @@ class HelloGit {
 
 	void myBigMethod()
 	{
-		sysout("has a method implementation");
+		System.out.println("has a method implementation");
 	}
 //sample comment
 	
