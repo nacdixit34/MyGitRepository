@@ -2,9 +2,15 @@ this is my first git....welcome to git Persistent...!!!!!
 
 class HelloGit {
 
+	void helloGit()
+	{
+		sysout("hello git...");
+	}
+
+
 	public static void main(String ar[])
 	{
-		System.out.println("hello git");
+
 		
 	}
 
