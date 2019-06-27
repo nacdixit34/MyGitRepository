@@ -1,16 +1,18 @@
-this is my first git....welcome to git Persistent...!!!!!
+//this is my first git....welcome to git Persistent...!!!!!
 
 class HelloGit {
 
 	void helloGit()
 	{
-		sysout("hello git...");
+		System.out.println("hello git...");
 	}
 
 
 	public static void main(String ar[])
 	{
 
+	HelloGit obj=new helloGit();
+	obj.helloGit(); 
 		
 	}
 
